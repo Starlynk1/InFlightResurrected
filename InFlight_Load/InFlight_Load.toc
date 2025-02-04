@@ -1,7 +1,8 @@
-## Interface: 11500
-## Version: 1.15.001
+## Interface: 11506
+## Version: 1.0.0
 ## Title: InFlight_Load
-## Author: TotalPackage
+## Author: Starlynk
+## Notes: Original Author is TotalPackage. Abandoned and resurrected by Starlynk
 ## Notes: Loader for InFlight
 ## Notes-deDE: Loader für InFlight
 ## Notes-esES: Cargador para InFlight
