@@ -1,0 +1,9 @@
+enable-toc-creation: yes
+
+optional-dependencies:
+  - Ace3
+
+ignore:
+  - .github
+  - .env
+  - .pkgmeta
