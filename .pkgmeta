@@ -6,4 +6,7 @@ optional-dependencies:
 ignore:
   - .github
   - .env
-  - .pkgmeta
+
+move-folders:
+  InFlight/Inflight: Inflight
+  InFlight_Load/InFlight_Load: InFlight_Load
