@@ -1,8 +1,9 @@
-## Interface: 11500
-## Version: 1.15.001
+## Interface: 11506
+## Version: 1.0
 ## Title: InFlight
-## Author: TotalPackage
+## Author: Starlynk
 ## Notes: Status bar timer for your flight paths
+## Notes: Original Code authored by TotalPackage. Updated by Starlynk
 ## Notes-deDE: Zeitanzeige für Ihre Flugrouten
 ## Notes-esES: Temporizador barra de estado para sus rutas de vuelo
 ## Notes-esMX: Temporizador barra de estado para sus rutas de vuelo
