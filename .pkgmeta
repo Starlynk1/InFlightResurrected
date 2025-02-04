@@ -1,6 +1,4 @@
-package-as: InFlightResurrected
-
-enable-toc-creation: no
+package-as: InFlight
 
 optional-dependencies:
   - Ace3
