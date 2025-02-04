@@ -1,4 +1,6 @@
-enable-toc-creation: yes
+package-as
+
+enable-toc-creation: no
 
 optional-dependencies:
   - Ace3
