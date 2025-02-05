@@ -9,4 +9,4 @@ ignore:
 
 move-folders:
   InFlight/Inflight: Inflight
-  InFlight_Load/InFlight_Load: InFlight_Load
+  InFlight_Load/InFlight_Load: InFlight
