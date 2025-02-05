@@ -6,3 +6,6 @@ optional-dependencies:
 ignore:
   - .github
   - .env
+
+move-folders:
+  InFlight_Load: InFlight
