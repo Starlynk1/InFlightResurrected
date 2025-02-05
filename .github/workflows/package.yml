@@ -39,5 +39,5 @@ jobs:
           fetch-depth: 0  # gets entire git history, needed for automatic changelogs
 
       # once cloned, we just run the GitHub Action for the packager project
-      - name: Package and release
+      - name: Package and Release
         uses: BigWigsMods/packager@master
